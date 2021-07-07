@@ -1,0 +1,13 @@
+C:\Users\Chanaka Gunathilaka\source\repos\Lab3_tictactoe\Lab3_tictactoe\bin\Debug\netcoreapp3.1\Lab3_tictactoe.exe
+C:\Users\Chanaka Gunathilaka\source\repos\Lab3_tictactoe\Lab3_tictactoe\bin\Debug\netcoreapp3.1\Lab3_tictactoe.deps.json
+C:\Users\Chanaka Gunathilaka\source\repos\Lab3_tictactoe\Lab3_tictactoe\bin\Debug\netcoreapp3.1\Lab3_tictactoe.runtimeconfig.json
+C:\Users\Chanaka Gunathilaka\source\repos\Lab3_tictactoe\Lab3_tictactoe\bin\Debug\netcoreapp3.1\Lab3_tictactoe.runtimeconfig.dev.json
+C:\Users\Chanaka Gunathilaka\source\repos\Lab3_tictactoe\Lab3_tictactoe\bin\Debug\netcoreapp3.1\Lab3_tictactoe.dll
+C:\Users\Chanaka Gunathilaka\source\repos\Lab3_tictactoe\Lab3_tictactoe\bin\Debug\netcoreapp3.1\Lab3_tictactoe.pdb
+C:\Users\Chanaka Gunathilaka\source\repos\Lab3_tictactoe\Lab3_tictactoe\obj\Debug\netcoreapp3.1\Lab3_tictactoe.csprojAssemblyReference.cache
+C:\Users\Chanaka Gunathilaka\source\repos\Lab3_tictactoe\Lab3_tictactoe\obj\Debug\netcoreapp3.1\Lab3_tictactoe.AssemblyInfoInputs.cache
+C:\Users\Chanaka Gunathilaka\source\repos\Lab3_tictactoe\Lab3_tictactoe\obj\Debug\netcoreapp3.1\Lab3_tictactoe.AssemblyInfo.cs
+C:\Users\Chanaka Gunathilaka\source\repos\Lab3_tictactoe\Lab3_tictactoe\obj\Debug\netcoreapp3.1\Lab3_tictactoe.csproj.CoreCompileInputs.cache
+C:\Users\Chanaka Gunathilaka\source\repos\Lab3_tictactoe\Lab3_tictactoe\obj\Debug\netcoreapp3.1\Lab3_tictactoe.dll
+C:\Users\Chanaka Gunathilaka\source\repos\Lab3_tictactoe\Lab3_tictactoe\obj\Debug\netcoreapp3.1\Lab3_tictactoe.pdb
+C:\Users\Chanaka Gunathilaka\source\repos\Lab3_tictactoe\Lab3_tictactoe\obj\Debug\netcoreapp3.1\Lab3_tictactoe.genruntimeconfig.cache
